@@ -9,6 +9,7 @@
     * [[4](http://math.bme.hu/~gabor/PGG.html)] Probability and Geometry on Groups  (technical)
     * [[5]()] Other Awesome Books I may have Forgotten
 * On to coding!
+* DOWNLOAD! RUN! MODIFY!!
 
 ---
 
